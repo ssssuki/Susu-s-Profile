@@ -1,8 +1,6 @@
 # Hello, I'm Susu☺️
 
 
-
-\
 \
 \
 I am a **_full stack web developer_** 🖥️  
